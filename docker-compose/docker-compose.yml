@@ -16,7 +16,7 @@ services:
       - db
       - smart-contract-verifier
       - redis_db
-    image: blockscout/blockscout:${DOCKER_TAG:-latest}
+    image: specularl2/blockscout:${DOCKER_TAG:-latest}
     build:
       context: ..
       dockerfile: ./docker/Dockerfile
