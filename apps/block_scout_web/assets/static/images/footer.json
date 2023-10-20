@@ -1,14 +1,19 @@
 [
   {
-    "title": "Home",
-    "url": "https://specular.network"
-  },
-  {
-    "title": "Getting Started",
-    "url": "https://specular.network/docs/getting-started"
-  },
-  {
-    "title": "Community",
-    "url": "https://specular.network/docs/community/"
+    "title": "Specular",
+    "links": [
+      {
+        "text": "Home",
+        "url": "https://specular.network"
+      },
+      {
+        "text": "Getting Started",
+        "url": "https://specular.network/docs/getting-started"
+      },
+      {
+        "text": "Community",
+        "url": "https://specular.network/docs/community/"
+      }
+    ]
   }
 ]
